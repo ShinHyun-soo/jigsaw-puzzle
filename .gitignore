@@ -2,3 +2,7 @@ train
 test
 augment
 origin
+data
+lightning_logs
+checkpoints
+.ipypnb_checkpoints
